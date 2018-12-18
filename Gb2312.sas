@@ -3,4 +3,4 @@ input name $12.;
 datalines;
 ;
 run;
-/*updated again from Git bash*/
+/*updated again from SASStudio*/
