@@ -1,5 +1,5 @@
 data test;
-input name $12.;/*update three from git bash*/
+input name $12.;/*update five from git bash*/
 datalines;
 run;
-/*update four from SASSTUDIO  and update four from git bash*/
+/*update four from SASSTUDIO  and update five from git bash*/
