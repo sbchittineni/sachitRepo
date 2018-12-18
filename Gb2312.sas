@@ -1,4 +1,4 @@
 data test;
-input name $12.;/*hell from git basj*/
+input name $12.;/*hello from git bash*/
 datalines;
 run;
