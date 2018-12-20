@@ -1,4 +1,4 @@
-%macro rsm_main();
+proc import %macro rsm_main();
 filename in 'C:\export_store\S4_all.stmx';
 %rsm_import_store(l3_1003,in);
 %if &rsm_rc = -1 %then %do;
